@@ -1,3 +1,5 @@
+import './index.css'
+
 import * as THREE from 'three'
 import { createRoot } from 'react-dom/client'
 import { useRef, useState } from 'react'
